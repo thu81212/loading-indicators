@@ -1,9 +1,6 @@
 # Progress Indicators — Advanced Interface Homework
 
-Six progress indicators across three tones (dramatic, playful, quirky), each with an indeterminate and determinate pair.
-
-## Full set
-- [All six indicators](https://claude.ai/artifact/PtUAUHi5PDaX3awVJPvbCU)
+Six progress indicators across three tones (elegant, playful, quirky), each with an indeterminate and determinate pair.
 
 ## Individual indicators
 - [Jelly Bounce (playful, indeterminate)](https://claude.ai/artifact/FojDDmKMKYmXZMgS5WedSF)
